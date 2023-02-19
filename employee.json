@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Ravi Kumar",
+      "DOB": "1998-01-12",
+      "height": 170,
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    },
+    {
+      "name": "Amit",
+      "DOB": "1999-05-15",
+      "height": 165,
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "name": "Sakshi",
+      "DOB": "1997-12-31",
+      "height": 180,
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "name": "Nagendra prasad",
+      "DOB": "1998-04-20",
+      "height": 180,
+      "city": "kolar",
+      "state": "karnataka"
+    },
+    {
+      "name": "virat kohli",
+      "DOB": "1988-11-05",
+      "height": 175,
+      "city": "New Delhi",
+      "state": "New Delhi"
+    }
+  ]
+  
